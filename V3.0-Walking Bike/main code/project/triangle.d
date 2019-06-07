@@ -1,0 +1,17 @@
+.\triangle.o: ..\user\triangle.c
+.\triangle.o: ..\user\triangle.h
+.\triangle.o: ..\user\extern.h
+.\triangle.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\triangle.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\triangle.o: E:\keil\install\ARM\ARMCC\bin\..\include\stdint.h
+.\triangle.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\triangle.o: ..\user\stm32f10x_conf.h
+.\triangle.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\triangle.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\triangle.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+.\triangle.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\triangle.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\triangle.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\triangle.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\triangle.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\triangle.o: E:\keil\install\ARM\ARMCC\bin\..\include\math.h
