@@ -1,0 +1,17 @@
+.\motor2.o: ..\user\motor2.c
+.\motor2.o: ..\user\motor2.h
+.\motor2.o: ..\user\extern.h
+.\motor2.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\motor2.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\motor2.o: E:\keil\install\ARM\ARMCC\bin\..\include\stdint.h
+.\motor2.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\motor2.o: ..\user\stm32f10x_conf.h
+.\motor2.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\motor2.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\motor2.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+.\motor2.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\motor2.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\motor2.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\motor2.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\motor2.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\motor2.o: E:\keil\install\ARM\ARMCC\bin\..\include\math.h
